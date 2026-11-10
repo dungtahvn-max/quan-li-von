@@ -1,0 +1,5 @@
+{
+  "name": "Quản lý Xoay vòng vốn",
+  "description": "Hệ thống quản lý tài chính xoay vòng vốn chuyên nghiệp với phân quyền Admin/Hội viên, chốt vốn tự động và theo dõi chuyển khoản real-time.",
+  "requestFramePermissions": []
+}
